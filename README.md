@@ -262,3 +262,4 @@ Eternal Mazes RPG Windows es un videojuego de estilo RPG desarrollado como proye
 
 Este proyecto incorpora una base técnica y de contenido orientada a RPG clásico, con una organización basada en datos, recursos visuales, audio y lógica de juego. Gracias a la comunidad, a los motores de referencia y a la estructura de desarrollo del género, este juego puede seguir creciendo y ampliándose con nuevas mecánicas y contenidos.
 
+
